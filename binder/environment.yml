@@ -1,6 +1,7 @@
-name: l3bi-r-2026
-# from plasmabio-template-r adapted for demo-r
-# janvier 2026
+name: l3bi-r-2026-new
+# from l3bi-r-2026
+# mars 2026
+# test pour ne pas limiter les versions
 
 # channels priority
 # see https://bioconda.github.io/
