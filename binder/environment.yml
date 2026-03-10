@@ -13,7 +13,7 @@ channels:
 dependencies:
   # Jupyter dependencies
   - jupyterhub>=4.1.6,<5
-  - jupyterlab
+  - jupyterlab>=4.4,<5
   - notebook
   - jupyter-resource-usage
   - jupyterlab-topbar-text
