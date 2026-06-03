@@ -55,7 +55,6 @@ dependencies:
   - r-ggtangle
   - r-enrichplot
   
-  # JupyterLab Variable inspector
   - pip
   - pip:
     - watermark
